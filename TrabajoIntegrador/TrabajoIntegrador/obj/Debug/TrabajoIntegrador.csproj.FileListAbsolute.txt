@@ -1,0 +1,7 @@
+C:\Users\xCrixus\source\repos\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe.config
+C:\Users\xCrixus\source\repos\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.exe
+C:\Users\xCrixus\source\repos\TrabajoIntegrador\TrabajoIntegrador\bin\Debug\TrabajoIntegrador.pdb
+C:\Users\xCrixus\source\repos\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csproj.CoreCompileInputs.cache
+C:\Users\xCrixus\source\repos\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.exe
+C:\Users\xCrixus\source\repos\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.pdb
+C:\Users\xCrixus\source\repos\TrabajoIntegrador\TrabajoIntegrador\obj\Debug\TrabajoIntegrador.csprojResolveAssemblyReference.cache
